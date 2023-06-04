@@ -12,11 +12,37 @@
 ---
 # 프로젝트 구성원
 
-|SD(PM)|FI(PL)|SD|SD|
-|:---:|:---:|:---:|:---:|:---:|
-|홍지희|강민구|고상준|김다영|
-|**MM**|**QC**|**PP**|**FI**|
-|박가나|서영태|이아람|허  민|
+
+<table>
+<thead>
+<tr>
+<th style="text-align:center"><strong>SD(PM)</strong></th>
+<th style="text-align:center"><strong>FI(PL)</strong></th>
+<th style="text-align:center"><strong>SD</strong></th>
+<th style="text-align:center"><strong>SD</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">홍지희</td>
+<td style="text-align:center">강민구</td>
+<td style="text-align:center">고상준</td>
+<td style="text-align:center">김다영</td>
+</tr>
+<tr>
+<td style="text-align:center"><strong>MM</strong></td>
+<td style="text-align:center"><strong>QC</strong></td>
+<td style="text-align:center"><strong>PP</strong></td>
+<td style="text-align:center"><strong>FI</strong></td>
+</tr>
+<tr>
+<td style="text-align:center">박가나</td>
+<td style="text-align:center">서영태</td>
+<td style="text-align:center">이아람</td>
+<td style="text-align:center">허  민</td>
+</tr>
+</tbody>
+</table>
 
 
 
