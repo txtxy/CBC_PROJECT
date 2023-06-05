@@ -16,10 +16,10 @@
 <table>
 <thead>
 <tr>
-<th style="text-align:center"><strong>SD(PM)</strong></th>
-<th style="text-align:center"><strong>FI(PL)</strong></th>
-<th style="text-align:center"><strong>SD</strong></th>
-<th style="text-align:center"><strong>SD</strong></th>
+<th style="text-align:center"><strong>PM</strong></th>
+<th style="text-align:center"><strong>PL</strong></th>
+<th style="text-align:center"><strong></strong></th>
+<th style="text-align:center"><strong></strong></th>
 </tr>
 </thead>
 <tbody>
@@ -30,10 +30,10 @@
 <td style="text-align:center">김다영</td>
 </tr>
 <tr>
-<td style="text-align:center"><strong>MM</strong></td>
-<td style="text-align:center"><strong>QC</strong></td>
-<td style="text-align:center"><strong>PP</strong></td>
-<td style="text-align:center"><strong>FI</strong></td>
+<td style="text-align:center"><strong></strong></td>
+<td style="text-align:center"><strong></strong></td>
+<td style="text-align:center"><strong></strong></td>
+<td style="text-align:center"><strong></strong></td>
 </tr>
 <tr>
 <td style="text-align:center">박가나</td>
@@ -56,5 +56,5 @@
 ---
 
 # 프로젝트 WBS
-![CBC WBS](./CBC_WBS.png)
+![CBC WBS]()
 
