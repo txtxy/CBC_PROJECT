@@ -18,8 +18,6 @@
 <tr>
 <th style="text-align:center"><strong>PM</strong></th>
 <th style="text-align:center"><strong>PL</strong></th>
-<th style="text-align:center"><strong></strong></th>
-<th style="text-align:center"><strong></strong></th>
 </tr>
 </thead>
 <tbody>
