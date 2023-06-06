@@ -43,8 +43,3 @@
 |:---:|
 |![](./Showcse_PFD_V5.1.drawio.png)|
 
----
-
-# 프로젝트 WBS
-![CBC WBS]()
-
