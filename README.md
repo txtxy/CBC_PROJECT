@@ -28,15 +28,7 @@
 <td style="text-align:center">강민구</td>
 <td style="text-align:center">고상준</td>
 <td style="text-align:center">김다영</td>
-</tr>
-<tr>
-<td style="text-align:center"><strong></strong></td>
-<td style="text-align:center"><strong></strong></td>
-<td style="text-align:center"><strong></strong></td>
-<td style="text-align:center"><strong></strong></td>
-</tr>
-<tr>
-<td style="text-align:center">박가나</td>
+  <td style="text-align:center">박가나</td>
 <td style="text-align:center">서영태</td>
 <td style="text-align:center">이아람</td>
 <td style="text-align:center">허  민</td>
